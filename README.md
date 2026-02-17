@@ -113,15 +113,6 @@ Use Postman or browser to test endpoints.
 * Managing database entities and persistence
 * Testing APIs using Postman
 
----
-
-## 🔮 Future Improvements
-
-* Implement DTO pattern for request/response handling
-* Add validation using `@Valid` annotations
-* Implement global exception handling
-* Add pagination and sorting
-* Implement authentication using Spring Security
 
 ---
 
